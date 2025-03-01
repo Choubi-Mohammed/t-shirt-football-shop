@@ -51,23 +51,23 @@ Bon développement ! 🚀
 
 ### Interface d'Administration
 
-![Interface d'Administration](dash-admin-img)
+![Interface d'Administration](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/dash-admin-img.png)
 
 
 
 ### Page d'Accueil
 
-![Accueil](home-img)
+![Accueil](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/home-img)
 
 
 
 ### Produits
 
-![Produits](product-img)
+![Produits](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/product-img)
 
 
 
 ### Boutique
 
-![Boutique](shop-img)
+![Boutique](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/shop-img)
 
