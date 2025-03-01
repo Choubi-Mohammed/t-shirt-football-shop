@@ -57,17 +57,17 @@ Bon développement ! 🚀
 
 ### Page d'Accueil
 
-![Accueil](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/home-img)
+![Accueil](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/home-img.png)
 
 
 
 ### Produits
 
-![Produits](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/product-img)
+![Produits](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/product-img.png)
 
 
 
 ### Boutique
 
-![Boutique](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/shop-img)
+![Boutique](https://github.com/Choubi-Mohammed/t-shirt-football-shop/blob/master/shop-img.png)
 
